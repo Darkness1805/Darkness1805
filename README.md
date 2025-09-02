@@ -1,16 +1,65 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/ZB8tJ6Y/horror-banner.gif" width="100%" alt="Dark Horror Banner"/>
+</p>
 
-<!--
-**Darkness1805/Darkness1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">☠️ Roshan Sachdev ☠️</h1>
+<h3 align="center">Game & Software Developer | MERN | Unity | ML Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕯️ About Me
+- 🎮 VR & Game Developer — worked at **Spark VR** creating immersive experiences.  
+- 🛠️ Full-stack developer — building **Jira++**, **LMS**, and a **Trading App**.  
+- 👨‍💻 Skilled in **MERN, Django, Unity (C#), React, GSAP, Three.js**.  
+- 📚 Currently learning **Machine Learning** & preparing for **Google Interviews**.  
+- 🩸 **GDG SRIT Co-lead** — organized events, mentored teams, and hosted dev workshops.  
+
+---
+
+## 🕷️ Tech Arsenal
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+</p>
+
+---
+
+## 🪦 Featured Projects
+- 🔮 **Jira++** — Next-gen project management system with real-time features.  
+- 📖 **Learning Management System** — SCORM support, gamification, AI chat integration.  
+- 📊 **Trading Web App** — MERN + Django + MongoDB, with real-time stock simulation.  
+- 🕹️ **Spark VR Games** — Built immersive VR experiences & lightweight educational games.  
+
+---
+
+## ☠️ Stats from the Underworld
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkness1805&show_icons=true&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkness1805&layout=compact&theme=dark&bg_color=000000&title_color=ff0000&text_color=ffffff" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Darkness1805&theme=dark&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🦇 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Blood%20Red?style=for-the-badge&logo=linkedin&logoColor=white&color=8B0000"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Nightmare%20Red?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/TvNgnc7/horror-divider.gif" width="100%" alt="Creepy Divider"/>
+</p>
+
+<h4 align="center">☠️ "Code by day, haunt by night..." ☠️</h4>
