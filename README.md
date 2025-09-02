@@ -1,10 +1,10 @@
-<!-- Banner -->
+<!-- Horror Banner -->
 <p align="center">
   <img src="https://i.ibb.co/ZB8tJ6Y/horror-banner.gif" width="100%" alt="Dark Horror Banner"/>
 </p>
 
-<h1 align="center" style="color:#ff0000;">☠️ Roshan Sachdev ☠️</h1>
-<h3 align="center">Game & Software Developer | MERN | Unity | ML Enthusiast</h3>
+<h1 align="center" style="color:#ff0000;">☠️ Darkness Awaits ☠️</h1>
+<h3 align="center" style="color:#ffffff;">Roshan Sachdev | Game & Software Developer</h3>
 
 ---
 
@@ -52,8 +52,8 @@
 
 ## 🦇 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Blood%20Red?style=for-the-badge&logo=linkedin&logoColor=white&color=8B0000"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Nightmare%20Red?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000"/></a>
+  <a href="https://linkedin.com/in/roshan-sachdev-46b5b325b/"><img src="https://img.shields.io/badge/LinkedIn-Blood%20Red?style=for-the-badge&logo=linkedin&logoColor=white&color=8B0000"/></a>
+  <a href="mailto:manalks1805@gmail.com"><img src="https://img.shields.io/badge/Gmail-Nightmare%20Red?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000"/></a>
 </p>
 
 ---
@@ -62,4 +62,4 @@
   <img src="https://i.ibb.co/TvNgnc7/horror-divider.gif" width="100%" alt="Creepy Divider"/>
 </p>
 
-<h4 align="center">☠️ "Code by day, haunt by night..." ☠️</h4>
+<h4 align="center" style="color:#ff0000;">☠️ "Code by day, haunt by night..." ☠️</h4>
