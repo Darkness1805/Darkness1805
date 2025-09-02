@@ -1,6 +1,6 @@
 <!-- Horror Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/ZB8tJ6Y/horror-banner.gif" width="100%" alt="Dark Horror Banner"/>
+  <img src="https://see.fontimg.com/api/renderfont4/VGvn/eyJyIjoiZnMiLCJoIjo0MywidyI6MTAwMCwiZnMiOjM0LCJmZ2MiOiIjRkYwMDAwIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/RGFya25lc3MgQXdhaXRz/youmurdererbb.png" alt="Darkness Awaits" />
 </p>
 
 <h1 align="center" style="color:#ff0000;">☠️ Darkness Awaits ☠️</h1>
