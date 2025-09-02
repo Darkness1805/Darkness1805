@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/ZB8tJ6Y/horror-banner.gif" width="100%" alt="Dark Horror Banner"/>
 </p>
 
-<h1 align="center">☠️ Roshan Sachdev ☠️</h1>
+<h1 align="center" style="color:#ff0000;">☠️ Roshan Sachdev ☠️</h1>
 <h3 align="center">Game & Software Developer | MERN | Unity | ML Enthusiast</h3>
 
 ---
