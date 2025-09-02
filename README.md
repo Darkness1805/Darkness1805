@@ -12,7 +12,7 @@
 - 🎮 VR & Game Developer — worked at **Spark VR** creating immersive experiences.  
 - 🛠️ Full-stack developer — building **Jira++**, **LMS**, and a **Trading App**.  
 - 👨‍💻 Skilled in **MERN, Django, Unity (C#), React, GSAP, Three.js**.  
-- 📚 Currently learning **Machine Learning** & preparing for **Google Interviews**.  
+- 📚 Currently learning **DevOps**.  
 - 🩸 **GDG SRIT Co-lead** — organized events, mentored teams, and hosted dev workshops.  
 
 ---
