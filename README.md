@@ -1,7 +1,8 @@
 <!-- Horror Banner -->
 <p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/VGvn/eyJyIjoiZnMiLCJoIjo0MywidyI6MTAwMCwiZnMiOjM0LCJmZ2MiOiIjRkYwMDAwIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/RGFya25lc3MgQXdhaXRz/youmurdererbb.png" alt="Darkness Awaits" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZwazM4a3pwZWR0OW1qYWVubWMwbnM1Z3R4Z2o3aHRld2tpMXM0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4IjBQupqojhqQzKk2/giphy.gif" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center" style="color:#ff0000;">☠️ Darkness Awaits ☠️</h1>
 <h3 align="center" style="color:#ffffff;">Roshan Sachdev | Game & Software Developer</h3>
